@@ -1,6 +1,8 @@
 Major Project NITK ECE Department 
 
-Project contributors
+Project Description:
+This project deals with desgining a feedback circuit MOSFET for filtering behavior using Active Inductor circuit
 
-1. Gokul Sabada 
+Project contributors:
+
 
