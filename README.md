@@ -1,2 +1,3 @@
-# analog_design
+Major Project NITK ECE Department 
+
 Project contributors
